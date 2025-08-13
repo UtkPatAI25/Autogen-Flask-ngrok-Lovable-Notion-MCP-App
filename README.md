@@ -323,7 +323,7 @@ Create a web interface for a Notion MCP agent with the following features:
 The backend API endpoint is: YOUR_NGROK_URL/run
 Include proper error handling and responsive design.
 
+```
 ## 📄 License
 
 This project is licensed under the MIT License. See LICENSE file for details.
-```
